@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# TensorFlow Model (often too large for GitHub)
+*.h5
+
+# Local uploads folder
+uploads/
+
+# Environment
+.env
+venv/
